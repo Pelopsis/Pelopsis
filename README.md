@@ -13,17 +13,15 @@
 
 ---
 
-### 👨‍🚀 Hakkımda
+### 👨‍🚀 About Me
 
-- 🎓 Kosova, **UBT Üniversitesi**'nde **Bilgisayar Bilimleri ve Mühendisliği** okuyorum
-- 🚀 Yazılım geliştirme ve problem çözmeyi seviyorum
-- 🌌 Uzay ve teknoloji meraklısıyım
-- 🌱 Şu an yeni teknolojiler ve algoritmalar üzerine kendimi geliştiriyorum
-- 💬 Bana ulaşmak için aşağıdaki bağlantıları kullanabilirsin
-
+- 🎓 I am studying **Computer Science and Engineering** at **UBT University** in Kosovo.
+- 🚀 I develop software and design websites.
+- 🌱 I am currently improving my skills in new technologies and algorithms.
+- 💬 You can use the links below to get in touch with me.
 <br/>
 
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️Technologies I Use
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,git,github,vscode,linux&theme=dark" alt="tech stack"/>
@@ -31,7 +29,7 @@
 
 <br/>
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Statistics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=pelopsis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -39,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pelopsis&theme=tokyonight&hide_border=true" alt="streak stats"/>
+ <img src="https://streak-stats.demolab.com/?user=pelopsis&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 <div align="center">
@@ -48,7 +46,7 @@
 
 <br/>
 
-### 🐍 Katkı Yılanı
+### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -60,7 +58,7 @@
 
 <br/>
 
-### 🌐 Sosyal
+### 🌐social
 
 <div align="center">
   <a href="https://github.com/pelopsis"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
